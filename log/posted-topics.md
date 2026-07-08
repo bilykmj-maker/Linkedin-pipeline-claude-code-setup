@@ -11,3 +11,9 @@
 ```
 
 ---
+
+## 2026-07-08
+- **Тема:** Walmart Connect та Magnite про конвергенцію retail media, CTV і programmatic (Канни 2026)
+- **Джерело:** https://www.adexchanger.com/content-studio/walmart-connect-and-magnite-on-the-convergence-of-retail-media-ctv-and-programmatic-cannes-2026/
+- **Картка:** cards/2026-07-08.png
+- **Статус:** заплановано в Publer на 2026-07-08 17:30 Київ (14:30 UTC), акаунт LinkedIn Mykhailo Bilyk. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем після публікації.

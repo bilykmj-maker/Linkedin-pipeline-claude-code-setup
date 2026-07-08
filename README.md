@@ -42,8 +42,8 @@ Publer не може читати raw-посилання приватного р
 **Запасний канал (якщо raw-URL раптом віддає 404 — репо стало приватним):** PNG → **Cloudinary** через Zapier-дію `upload_signed`: `file` = data URI `data:image/png;base64,<...>`, `type` = `upload`, `resource_type` = `image`, `public_id` = `carat-digest/YYYY-MM-DD`. Параметр `folder` НЕ передавати — він приймає лише вже наявні папки, а шлях у `public_id` створює папку сам. У відповіді буде публічний `secure_url` (res.cloudinary.com). Канал перевірено наскрізним тестом 2026-07-08.
 
 Далі в обох випадках:
-1. URL → Publer-дія `upload_media`: `{file_urls: ["<url>"], upload_type: "url", in_library: "true", workspace_id: "69eb81061ad08e54939f0de5"}` → `media_id` (у `payload[0].id`).
-2. `create_post` з `media_ids: ["<media_id>"]`.
+1. URL → Publer-дія `upload_media`: `{file_urls: ["<url>"], upload_type: "url", in_library: "true", workspace_id: "69eb81061ad08e54939f0de5"}` → `media_id` (у `results[0].payload[0].id` або `media_id`, залежно від відповіді дії).
+2. `create_post` з обов'язковим `state: "scheduled"` (без цього поля дія попросить його окремо), `media_ids: ["<media_id>"]`, `scheduled_at` в UTC ISO-8601, **без** `auto_comment_enabled`/`auto_comment_text` (див. нижче).
 
 Коміт PNG у `cards/` — одночасно і канал доставки (raw-URL), і архів.
 
@@ -51,6 +51,15 @@ Publer не може читати raw-посилання приватного р
 
 - workspace_id: `69eb81061ad08e54939f0de5`
 - LinkedIn account_id: `69eb812445572ded59bab55b`
+
+## Публікація без auto-comment (важливо!)
+
+Поточний тариф Publer-акаунта **не підтримує** auto-comment / auto-share / auto-delete (перевірено 2026-07-08 — `create_post` з `auto_comment_enabled: true` падає з помилкою «Please upgrade your plan…»). Тому:
+
+- У `create_post` НЕ передавати `auto_comment_enabled`/`auto_comment_text` взагалі (або передавати `auto_comment_enabled: false`).
+- Джерело статті в тіло поста НЕ додавати (правило про чистий текст лишається).
+- Після планування нагадати користувачу вручну додати посилання на джерело першим коментарем у LinkedIn після публікації.
+- Якщо тариф колись оновлять — прибрати це обмеження і повернути auto-comment у `create_post`.
 
 ## Фіксовані правила контенту
 
