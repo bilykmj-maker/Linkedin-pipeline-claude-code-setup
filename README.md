@@ -33,13 +33,19 @@ python3 scripts/downscale.py /tmp/card-2x.png cards/YYYY-MM-DD.png
 
 ## Доставка картки в Publer (важливо!)
 
-Репозиторій **приватний**, тому raw.githubusercontent.com-посилання зовнішнім сервісам недоступні — Publer такий URL не приймає. Робочий ланцюг:
+Publer не може читати raw-посилання приватного репозиторію — саме через це раніше картку доводилось перетягувати вручну.
 
-1. PNG → **Cloudinary** через Zapier-дію `upload_signed` (Cloudinary), `file` = data URI `data:image/png;base64,<...>`, `type` = `upload`, `resource_type` = `image`, `folder` = `carat-digest`, `public_id` = `YYYY-MM-DD`. У відповіді буде публічний `secure_url` (res.cloudinary.com).
-2. `secure_url` → Publer-дія `upload_media`: `{file_urls: ["<secure_url>"], upload_type: "url", in_library: "true", workspace_id: "69eb81061ad08e54939f0de5"}` → `media_id`.
-3. `create_post` з `media_ids: ["<media_id>"]`.
+**Основний канал (репо публічне):** закомітити й запушити PNG у `cards/`, взяти
+`https://raw.githubusercontent.com/bilykmj-maker/Linkedin-pipeline-claude-code-setup/<гілка>/cards/YYYY-MM-DD.png`
+і перевірити доступність (`curl -sI` → HTTP 200), потім передати цей URL у Publer `upload_media`.
 
-Коміт PNG у `cards/` — архів/журнал, не канал доставки.
+**Запасний канал (якщо raw-URL раптом віддає 404 — репо стало приватним):** PNG → **Cloudinary** через Zapier-дію `upload_signed`: `file` = data URI `data:image/png;base64,<...>`, `type` = `upload`, `resource_type` = `image`, `public_id` = `carat-digest/YYYY-MM-DD`. Параметр `folder` НЕ передавати — він приймає лише вже наявні папки, а шлях у `public_id` створює папку сам. У відповіді буде публічний `secure_url` (res.cloudinary.com). Канал перевірено наскрізним тестом 2026-07-08.
+
+Далі в обох випадках:
+1. URL → Publer-дія `upload_media`: `{file_urls: ["<url>"], upload_type: "url", in_library: "true", workspace_id: "69eb81061ad08e54939f0de5"}` → `media_id` (у `payload[0].id`).
+2. `create_post` з `media_ids: ["<media_id>"]`.
+
+Коміт PNG у `cards/` — одночасно і канал доставки (raw-URL), і архів.
 
 ## Publer — фіксовані ідентифікатори
 
