@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-07-15
+- **Тема:** PayPal доводить ROI retail media крос-мерчантними даними (Transaction Graph, Канни 2026)
+- **Джерело:** https://www.adexchanger.com/content-studio/paypal-ads-mark-grether-retail-media-cannes-2026/
+- **Картка:** cards/2026-07-15.png
+- **Статус:** НЕПІДТВЕРДЖЕНО. Медіа завантажено в Publer library успішно (media_id 6a571c51c7bd1a121f55a894). Дію `create_post` (state=scheduled, 2026-07-15 10:00 Київ / 07:00 UTC, акаунт LinkedIn Mykhailo Bilyk, auto-comment вимкнено) викликано ДВІЧІ поспіль — обидва рази Zapier-виклик обірвався по 60-секундному таймауту без відповіді, тому невідомо, чи пост(и) справді створено на боці Publer. Третю спробу навмисно не робили, щоб не заплодити дублікати. ПОТРІБНА РУЧНА ПЕРЕВІРКА в Publer UI: підтвердити наявність запланованого поста на 10:00 Київ 2026-07-15, видалити дублікати за потреби, або створити пост вручну, якщо жодного не з'явилося. Джерело додати вручну першим коментарем у LinkedIn одразу після публікації.
+
 ## 2026-07-10
 - **Тема:** Consideration — найважчий показник для зрушення (бенчмарк On Device, 650 brand lift досліджень)
 - **Джерело:** https://www.exchangewire.com/blog/2026/07/08/consideration-is-now-the-hardest-metric-to-shift-new-on-device-benchmark-data-reveals/
