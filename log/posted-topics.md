@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-07-16
+- **Тема:** «Майбутнє таргетування»: медіа-агентства (Dentsu, Chalice, Equativ) досліджують vector-based планування
+- **Джерело:** https://digiday.com/media-buying/future-of-targeting-media-agencies-tentatively-explore-vector-based-planning/
+- **Картка:** cards/2026-07-16.png
+- **Статус:** заплановано в Publer на 2026-07-16 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk (post_id 6a585443078688825e60d935). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем після публікації.
+
 ## 2026-07-15
 - **Тема:** PayPal доводить ROI retail media крос-мерчантними даними (Transaction Graph, Канни 2026)
 - **Джерело:** https://www.adexchanger.com/content-studio/paypal-ads-mark-grether-retail-media-cannes-2026/
