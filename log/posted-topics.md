@@ -16,7 +16,7 @@
 - **Тема:** «Атрибуція стала ілюзією на $1 трильйон»: падіння match rates (iOS 14, приватність штатів США) відкриває розрив між дашбордами й реальними бізнес-результатами
 - **Джерело:** https://www.adexchanger.com/data-exchanges/with-match-rates-falling-is-effective-attribution-just-an-illusion/
 - **Картка:** cards/2026-07-17.png
-- **Статус:** заплановано в Publer на 2026-07-17 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk (post_id 6a59b54e5ab18b1f7efb3705). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем після публікації.
+- **Статус:** ОПУБЛІКОВАНО 2026-07-17 о 07:18 UTC (10:18 Київ), акаунт LinkedIn Mykhailo Bilyk. Пост: https://www.linkedin.com/feed/update/urn:li:share:7483782020247064576 (post_id 6a59d71c89a1721d66a89f70). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем. ПРИМІТКА: попередній виклик `create_post` (state=scheduled, 07:00 UTC) повернув `post_id 6a59b54e5ab18b1f7efb3705` зі статусом "complete", але `find_post` показав "Post does not exist or has been deleted" — запланований пост так і не з'явився в Publer, тому опубліковано напряму (state=published) за проханням користувача.
 
 ## 2026-07-16
 - **Тема:** «Майбутнє таргетування»: медіа-агентства (Dentsu, Chalice, Equativ) досліджують vector-based планування
