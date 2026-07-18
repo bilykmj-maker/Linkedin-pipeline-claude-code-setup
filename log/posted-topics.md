@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-07-18
+- **Тема:** DoubleVerify (DV Global Insights 2026, Must-CTV): 40% глядачів позитивно реагують на повторний показ реклами під час прямих спортивних трансляцій у стрімінгу; рекомендація — 1-2 повтори за трансляцію
+- **Джерело:** https://www.exchangewire.com/blog/2026/07/16/doubleverify-study-40-of-viewers-respond-positively-to-repeated-ads-during-streaming-content/
+- **Картка:** cards/2026-07-18.png
+- **Статус:** заплановано в Publer на 2026-07-18 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk (post_id 6a5b18677af4eed9b04bee15, status "complete"). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем після публікації. Дві інші чернетки дня (Publicis AI 87% доходу; Retail media бренд-контент) не обрано, не закомічено.
+
 ## 2026-07-17
 - **Тема:** «Атрибуція стала ілюзією на $1 трильйон»: падіння match rates (iOS 14, приватність штатів США) відкриває розрив між дашбордами й реальними бізнес-результатами
 - **Джерело:** https://www.adexchanger.com/data-exchanges/with-match-rates-falling-is-effective-attribution-just-an-illusion/
