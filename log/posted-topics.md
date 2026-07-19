@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-07-19
+- **Тема:** Google (Meridian, Python) і Meta (Robyn, R) безкоштовно роздають власні MMM-інструменти — питання незалежності вимірювання, коли інструмент оцінки ефективності будує сам медіаселер
+- **Джерело:** https://www.adexchanger.com/the-big-story/picking-an-mmm/
+- **Картка:** cards/2026-07-19.png
+- **Статус:** НЕПІДТВЕРДЖЕНО. Медіа завантажено в Publer library успішно (media_id 6a5c8e77c89abf7c6e9eb337). Дію `create_post` (state=scheduled, 2026-07-19 12:00 Київ / 09:00 UTC, акаунт LinkedIn Mykhailo Bilyk, auto-comment вимкнено) викликано один раз — Zapier повернув `post_id 6a5c8e9d4b60265d42c6bea7`, але з `"scheduled": false` у корені відповіді (нетипово для успішних викликів попередніх днів). Наступний `find_post` по цьому post_id повернув помилку «Post does not exist or has been deleted» — той самий симптом, що й 2026-07-17, коли запланований пост так і не з'явився в Publer. ПОТРІБНЕ РІШЕННЯ КОРИСТУВАЧА: повторити спробу планування, опублікувати напряму (state=published) чи перевірити вручну в Publer UI. Джерело (за потреби публікації) додати вручну першим коментарем у LinkedIn одразу після публікації.
+
 ## 2026-07-18
 - **Тема:** DoubleVerify (DV Global Insights 2026, Must-CTV): 40% глядачів позитивно реагують на повторний показ реклами під час прямих спортивних трансляцій у стрімінгу; рекомендація — 1-2 повтори за трансляцію
 - **Джерело:** https://www.exchangewire.com/blog/2026/07/16/doubleverify-study-40-of-viewers-respond-positively-to-repeated-ads-during-streaming-content/
