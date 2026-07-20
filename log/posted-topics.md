@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-07-20
+- **Тема:** Captify UK «Prompt to Purchase»: близько 70% відповідей LLM рекомендують лише один бренд (optimism bias), готовність купити зростає після 5-6 промптів
+- **Джерело:** https://www.exchangewire.com/blog/2026/07/17/around-70-of-ai-responses-recommend-one-primary-brand-captify-uk-finds/
+- **Картка:** cards/2026-07-20.png
+- **Статус:** заплановано в Publer на 2026-07-20 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6a5db0cbd3f6f26cbd9843ff, post_id 6a5db0ef775c3337c56a5272 (status "complete" у відповіді Zapier). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. З огляду на нестабільність `find_post`/автопідтвердження в попередні дні (07-15, 07-17, 07-19) — РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Дві інші чернетки дня (обвал ad supply видавців на 40% через AI-пошук; провал впровадження Agentforce у Salesforce) не обрано, не закомічено.
+
 ## 2026-07-19
 - **Тема:** Google (Meridian, Python) і Meta (Robyn, R) безкоштовно роздають власні MMM-інструменти — питання незалежності вимірювання, коли інструмент оцінки ефективності будує сам медіаселер
 - **Джерело:** https://www.adexchanger.com/the-big-story/picking-an-mmm/
