@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-07-22
+- **Тема:** DataDome (Q2 2026): трафік AI-агентів зріс на 45% кв/кв, але візити через ChatGPT-User впали на 6% — реферальний трафік більше не головна метрика видимості в AI-пошуку (людські переходи з ChatGPT +17%, ChatGPT формує 80%+ AI-реферального трафіку)
+- **Джерело:** https://digiday.com/media/in-graphic-detail-ai-visibility-is-no-longer-about-referral-traffic/
+- **Картка:** cards/2026-07-22.png
+- **Статус:** заплановано в Publer на 2026-07-22 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6a60480fa6b5db1e658a5392, post_id 6a604832637f38df9cee3899 (status "complete" у відповіді Zapier). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Дві інші чернетки дня (Cannes Lions 2026 — агентний ШІ в медіарішеннях; Beehiiv — programmatic для ньюслетерів) не обрано, не закомічено.
+
 ## 2026-07-20
 - **Тема:** Captify UK «Prompt to Purchase»: близько 70% відповідей LLM рекомендують лише один бренд (optimism bias), готовність купити зростає після 5-6 промптів
 - **Джерело:** https://www.exchangewire.com/blog/2026/07/17/around-70-of-ai-responses-recommend-one-primary-brand-captify-uk-finds/
