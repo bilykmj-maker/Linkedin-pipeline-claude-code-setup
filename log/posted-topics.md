@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-07-23
+- **Тема:** Comscore розширює контекстний таргетинг Proximic на подкасти (Spotify, SiriusXM, Triton Digital, Acast, Libsyn) — транскрипт-рівневий контекстний таргетинг і pre-bid аудиторні сегменти, як для CTV і дисплея
+- **Джерело:** https://www.adexchanger.com/audio/comscore-wants-to-make-buying-podcast-ads-feel-more-like-buying-ctv-or-display/
+- **Картка:** cards/2026-07-23.png
+- **Статус:** заплановано в Publer на 2026-07-23 10:30 Київ (07:30 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6a61be8ee0dc2bc2cffd5b95, post_id 6a61beca8aba0fcb1f795b60 (status "complete" у відповіді Zapier). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. Дві інші чернетки дня (Omnicom — «capability company» замість holding; Albertsons/P&G — 22-епізодний retail media мікросеріал «Rico's Tacos») не обрано, не закомічено.
+
 ## 2026-07-22
 - **Тема:** DataDome (Q2 2026): трафік AI-агентів зріс на 45% кв/кв, але візити через ChatGPT-User впали на 6% — реферальний трафік більше не головна метрика видимості в AI-пошуку (людські переходи з ChatGPT +17%, ChatGPT формує 80%+ AI-реферального трафіку)
 - **Джерело:** https://digiday.com/media/in-graphic-detail-ai-visibility-is-no-longer-about-referral-traffic/
