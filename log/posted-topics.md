@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-08-20
+- **Тема:** «Ads for AI agents have a measurement problem» — Time показує FAQ-рекламу в markdown-сторінках для AI-агентів; вимірювання через повторний промптинг чат-бота (AI visibility/favorability) замість підтвердженого показу; індустрія хоче ROAS, а не вигадані метрики (GEO lift, agent retrievals); IAB розробляє фреймворк атрибуції для agentic-реклами
+- **Джерело:** https://digiday.com/media/media-briefing-ads-for-ai-agents-have-a-measurement-problem/
+- **Картка:** cards/2026-08-20.png
+- **Статус:** заплановано в Publer на 2026-08-20 11:30 Київ (08:30 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6a86b40a9ac9acd1157e46de, job_id 6a86b4288f475b6754a9ddbe (status "complete", payload.failures порожній — post_id окремо у відповіді не повернувся, тому РЕКОМЕНДОВАНА ручна перевірка в Publer UI). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. Дві інші чернетки дня (ANA retail media measurement standardization — 55% рекламодавців не довіряють вимірюванню; консолідація TV/CTV measurement — VideoAmp/Comscore скорочення персоналу, Nielsen купує DoubleVerify за $2.15 млрд) не обрано, не закомічено.
+
 ## 2026-07-23
 - **Тема:** Comscore розширює контекстний таргетинг Proximic на подкасти (Spotify, SiriusXM, Triton Digital, Acast, Libsyn) — транскрипт-рівневий контекстний таргетинг і pre-bid аудиторні сегменти, як для CTV і дисплея
 - **Джерело:** https://www.adexchanger.com/audio/comscore-wants-to-make-buying-podcast-ads-feel-more-like-buying-ctv-or-display/
