@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-08-26
+- **Тема:** Dentsu консолідує commerce media та retail media в один напрям під новим керівництвом — офіційна причина: обидва ринки зростають «вражаючими темпами», окремі команди не встигають ні обмінюватися даними, ні пропонувати клієнту єдину лійку
+- **Джерело:** https://digiday.com/media-buying/dentsu-expands-and-consolidates-its-commerce-and-retail-media-offering-under-new-leadership/
+- **Картка:** cards/2026-08-26.png
+- **Статус:** заплановано в Publer на 2026-08-26 10:20 Київ (07:20 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6a8e8ef97ff2f5bcc78f82a7, job_id 6a8e914c6fec25799d9adc13 (status "complete", payload.failures порожній — post_id окремо у відповіді не повернувся, тому РЕКОМЕНДОВАНА ручна перевірка в Publer UI). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. ПРИМІТКА: у цьому запуску egress-проксі блокував прямий доступ до digiday.com/adexchanger.com/exchangewire.com/marketingdive.com/adweek.com/martech.org/searchengineland.com (403), тому факти для всіх трьох чернеток дня побудовані виключно на Title/Summary з CSV-фіда, без читання повного тексту статей — варто звірити деталі з оригіналом. Дві інші чернетки дня (Prebid.org — одночасний відхід президента, голови й директора та «перезавантаження» під агентну еру ad tech за словами нового голови Джоела Мейєра; дебати про ціноутворення AI-токенів у мартех-стеках після релізу Claude Sonnet 5) не обрано, не закомічено.
+
 ## 2026-08-20
 - **Тема:** «Ads for AI agents have a measurement problem» — Time показує FAQ-рекламу в markdown-сторінках для AI-агентів; вимірювання через повторний промптинг чат-бота (AI visibility/favorability) замість підтвердженого показу; індустрія хоче ROAS, а не вигадані метрики (GEO lift, agent retrievals); IAB розробляє фреймворк атрибуції для agentic-реклами
 - **Джерело:** https://digiday.com/media/media-briefing-ads-for-ai-agents-have-a-measurement-problem/
