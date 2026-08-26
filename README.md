@@ -24,6 +24,20 @@ npm install            # playwright (Chromium вже передвстановл�
 pip install pillow
 ```
 
+Дозволи для автономної роботи Routine лежать у `.claude/settings.json` (allow-правила для Google Drive, Tavily, Zapier і потрібних Bash-команд). Без них сесія тригера питає підтвердження на кожен виклик конектора.
+
+## Читання джерел: тільки через Tavily (важливо!)
+
+Egress-проксі середовища **блокує** прямий доступ до медіа-доменів: `curl` не проходить, `WebFetch` повертає `EGRESS_BLOCKED`, у логах проксі — `403 to CONNECT` для digiday.com, adexchanger.com, exchangewire.com, marketingdive.com, adweek.com, martech.org, searchengineland.com (перевірено 2026-08-26).
+
+Тому повний текст статті береться **виключно** через конектор Tavily — він завантажує сторінку на своєму боці, і проксі йому не заважає:
+
+```
+mcp__Tavily__tavily_extract({ urls: ["<url статті>"], extract_depth: "advanced", format: "markdown" })
+```
+
+Це не опція, а обов'язковий крок: без нього пост пишеться з коротких Title/Summary CSV-фіда і втрачає конкретику. Приклад ціни помилки — пост від 2026-08-26 писав «зростають вражаючими темпами» замість реальної цифри зі статті «+25% р/р у Q2 2026 за даними Madison & Wall».
+
 ## Рендер картки
 
 ```bash
