@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-08-28
+- **Тема:** «What it takes for AI to find, trust, and act on your brand» (MarTech.org) — у червні 2026 боти вперше обійшли людей за трафіком (57,5% HTML-запитів у мережі Cloudflare); трирівнева рамка AI-видимості бренду (eligibility → recommendation → transaction) від Benu Aggarwal (Milestone Inc.); діагностика «розрив згадка-цитата»; вимірювання має враховувати mention rate/citation rate, а не лише AI-реферальний трафік
+- **Джерело:** https://martech.org/what-it-takes-for-ai-to-find-trust-and-act-on-your-brand/
+- **Картка:** cards/2026-08-28.png
+- **Статус:** заплановано в Publer на 2026-08-28 11:45 Київ (08:45 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6a9144c8ccbaaa0bb910da13, job_id 6a9144e63b5c0cc2477d146c (status "complete", payload.failures порожній — post_id окремо у відповіді не повернувся, тому РЕКОМЕНДОВАНА ручна перевірка в Publer UI). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. Дві інші чернетки дня (The Trade Desk Kokai Zuma — агентний AI у programmatic, AdExchanger; Mark Ritson «Don't Let Retail Media Tell You It's Brand Building», Adweek) не обрано, не закомічено.
+
 ## 2026-08-26
 - **Тема:** Dentsu консолідує commerce media та retail media в один напрям під новим керівництвом — офіційна причина: обидва ринки зростають «вражаючими темпами», окремі команди не встигають ні обмінюватися даними, ні пропонувати клієнту єдину лійку
 - **Джерело:** https://digiday.com/media-buying/dentsu-expands-and-consolidates-its-commerce-and-retail-media-offering-under-new-leadership/
