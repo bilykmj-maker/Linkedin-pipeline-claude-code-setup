@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-08-31
+- **Тема:** «Gamers are Turning In-Game Finds Into Real-World Buys, Captify UK Data Reveals» (ExchangeWire) — дані Captify (частина Verve) на мільярдах пошукових сигналів січень–липень 2026 і опитуванні Fandom UK 2026: 33% британських геймерів (47% серед 18-24 років) частіше розглядають бренд у реальному житті після ігрової взаємодії; 55% молодих геймерів дізнаються про бренди через присутність у грі проти 27% загалом; The Sims 4 × Coach колаборація дала +40% пошуків Coach; гравці Fortnite шукали Lamborghini вчетверо частіше, ніж Porsche; AI-сигнал — лише 1,5% запитів про консолі згадують одразу PlayStation і Xbox, але 35% AI-відповідей самі зводять обидва бренди (у 23 рази частіше, ніж роблять самі споживачі)
+- **Джерело:** https://www.exchangewire.com/blog/2026/08/28/gamers-are-turning-in-game-finds-into-real-world-buys-captify-uk-data-reveals/
+- **Картка:** cards/2026-08-31.png
+- **Статус:** заплановано в Publer на 2026-08-31 10:15 Київ (07:15 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6a95255b16a2f4dca8ceeee2, job_id 6a95286360d9a1b98e21af22 (status "complete", payload.failures порожній — post_id окремо у відповіді не повернувся, тому РЕКОМЕНДОВАНА ручна перевірка в Publer UI). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. Дві інші чернетки дня (Validity/martech.org — 92% SVP/VP діяли за хибною AI-рекомендацією через погані CRM-дані; Google DV360 API — з 1 жовтня прибираються бренд-safety exclusion-таргетинги, з 12 жовтня нові вимоги для YouTube responsive ads) не обрано, не закомічено.
+
 ## 2026-08-28
 - **Тема:** «What it takes for AI to find, trust, and act on your brand» (MarTech.org) — у червні 2026 боти вперше обійшли людей за трафіком (57,5% HTML-запитів у мережі Cloudflare); трирівнева рамка AI-видимості бренду (eligibility → recommendation → transaction) від Benu Aggarwal (Milestone Inc.); діагностика «розрив згадка-цитата»; вимірювання має враховувати mention rate/citation rate, а не лише AI-реферальний трафік
 - **Джерело:** https://martech.org/what-it-takes-for-ai-to-find-trust-and-act-on-your-brand/
