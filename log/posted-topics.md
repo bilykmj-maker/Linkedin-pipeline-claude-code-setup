@@ -12,6 +12,18 @@
 
 ---
 
+## 2026-09-02
+- **Тема:** «Retail Media Can Build Brands—Including Ways Other Media Can't» (Adweek, Andrew Lipsman) — відповідь на колонку Mark Ritson «Don't Let Retail Media Tell You It's Brand Building»; за Бінетом і Філдом (Ebiquity) брендинг має отримувати 55-60% бюджету, але в США понад 70% йде в performance; за eMarketer retail media формує 29% пулу бюджету в пошуку, 16% у CTV, 15% у DOOH, 11% у programmatic display/video, 6% у соцмережах; P&G (за Sensor Tower) більш ніж подвоїв off-site retail media інвестиції за рік; причинне моделювання стабільно ставить retail media серед каналів із найвищим ROI; цитата Rory Sutherland (Ogilvy UK) — «контекстно-чутливий брендинг». ПРИМІТКА: спочатку в топ-3 добірку потрапила тема OpenAI ChatGPT ads $1B ARR (Digiday), але вона виявилась ідентичною темі, вже опублікованій 2026-09-01 (лог за той день не був оновлений попереднім запуском) — замінена на цю тему retail media.
+- **Джерело:** https://www.adweek.com/commerce/retail-media-can-build-brandsincluding-ways-other-media-cant/
+- **Картка:** cards/2026-09-02.png
+- **Статус:** заплановано в Publer на 2026-09-02 11:15 Київ (08:15 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6a97d5b808e05cbe706cd762, job_id 6a97d5e2e917d80ccf774193 (status "complete", payload.failures порожній — post_id окремо у відповіді не повернувся, тому РЕКОМЕНДОВАНА ручна перевірка в Publer UI). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. Дві інші чернетки дня (AdExchanger — Google Ads bidding change / принципал-агентська проблема агентної реклами, Toni Poulain; AdExchanger — CTV incrementality замість атрибуції, Rick Bruner) не обрано, не закомічено. Текст обраного поста скорочено користувачем — прибрано перелік каналів і закриваюче питання в кінці.
+
+## 2026-09-01 (backfill)
+- **Тема:** «OpenAI's ChatGPT ads business hits $1 billion run rate as Europe gets self-serve access» (Digiday) — рекламний бізнес OpenAI вийшов на річний run rate $1 млрд за неповних 200 днів; цитата Dave Dugan (VP Global Ad Solutions); self-serve доступ до Ads Manager відкрито у 31 європейському ринку з 31 серпня.
+- **Джерело:** https://digiday.com/media-buying/openais-chatgpt-ads-business-hits-1-billion-run-rate-as-europe-gets-self-serve-access/
+- **Картка:** cards/2026-09-01.png
+- **Статус:** ЗАДОКУМЕНТОВАНО ЗАДНІМ ЧИСЛОМ 2026-09-02 — файли `posts/2026-09-01.md` і `cards/2026-09-01.png` вже існували в репозиторії (попередній запуск опублікував цю тему), але запис у цьому журналі був пропущений тим запуском. Через це запуск 2026-09-02 спочатку повторно відібрав ту саму статтю в топ-3 і мало не написав дублікат — виявлено вручну на етапі читання повних текстів, тему замінено. Деталі фактичної публікації (час, media_id, job_id) невідомі — не збережені попереднім запуском.
+
 ## 2026-08-31
 - **Тема:** «Gamers are Turning In-Game Finds Into Real-World Buys, Captify UK Data Reveals» (ExchangeWire) — дані Captify (частина Verve) на мільярдах пошукових сигналів січень–липень 2026 і опитуванні Fandom UK 2026: 33% британських геймерів (47% серед 18-24 років) частіше розглядають бренд у реальному житті після ігрової взаємодії; 55% молодих геймерів дізнаються про бренди через присутність у грі проти 27% загалом; The Sims 4 × Coach колаборація дала +40% пошуків Coach; гравці Fortnite шукали Lamborghini вчетверо частіше, ніж Porsche; AI-сигнал — лише 1,5% запитів про консолі згадують одразу PlayStation і Xbox, але 35% AI-відповідей самі зводять обидва бренди (у 23 рази частіше, ніж роблять самі споживачі)
 - **Джерело:** https://www.exchangewire.com/blog/2026/08/28/gamers-are-turning-in-game-finds-into-real-world-buys-captify-uk-data-reveals/
