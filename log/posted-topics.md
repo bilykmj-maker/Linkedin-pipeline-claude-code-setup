@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-10-01
+- **Тема:** «CTV Ad Consumption Continues to Gain Ground Across Europe» (ExchangeWire PressBox / FreeWheel Video Monetisation Report 1H 2026, 30.09.2026) — CTV = 53% рекламних переглядів преміум-відео в Європі (частка подвоїлась з 2023); загальні ad views +20% р/р, programmatic ad views +44% р/р; live у рекламних переглядах 25% (2H 2025) → 32% (1H 2026); 14 європейських країн (України немає); цитата Еммануеля Жоссерана (Comcast Advertising). ПРИМІТКА: Google Drive CSV-фід недоступний («session expired» на всі спроби), топ-3 зібрано пошуком Tavily.
+- **Джерело:** https://www.exchangewire.com/blog/2026/09/30/ctv-ad-consumption-continues-to-gain-ground-across-europe
+- **Картка:** cards/2026-10-01.png
+- **Статус:** заплановано в Publer на 2026-10-01 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6abdfaa21f87bb4c4bf4889a, job_id 6abdfaae0401c03d53f04066 (status "complete", payload.failures порожній). РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. Дві інші чернетки дня (ExchangeWire — PubMatic Rajeev Goel, «human in the loop» = ще один AI-агент; AdExchanger Talks — Tinuiti/Abbey Klaassen, «нудний» дата-фундамент для агентів) не обрано, не закомічено.
+
 ## 2026-09-29
 - **Тема:** «Citi Jumps Into the Ad Business, Enters a Competitive Market» (Business Insider / CMO Insider) — Citi запустив Citi Commerce Media (23.09.2026): таргетинг понад 70 млн клієнтів США за патерном витрат у власному застосунку/сайті й на сторонніх майданчиках; 6,5 млрд транзакцій на рік у 700+ категоріях; у пілоті дві кампанії дали в середньому +15% до витрат проти контрольної групи; eMarketer: фінансові медіамережі в США перейдуть $1 млрд у 2026 і ростуть понад 66% CAGR до 2027; попередники — JPMorgan Chase і PayPal (2024), Mastercard і American Express (осінь 2025); угода про купівлю Kard; цитата Абхінава Ананда (Citi) і Каші Кейсі (Known); клієнти мають відмовлятися (opt-out) від таких реклам. ПРИМІТКА: Google Drive CSV-фід недоступний («session expired» на всі спроби), тому добірку топ-3 зібрано пошуком Tavily. Дата статті BI точно не визначена (вересень 2026).
 - **Джерело:** https://www.businessinsider.com/citi-is-jumping-into-the-advertising-business-2026-9
