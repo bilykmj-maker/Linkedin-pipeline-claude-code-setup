@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep",
+      "Task",
+      "SendUserFile",
+      "WebSearch",
+      "TodoWrite",
+
+      "mcp__Google_Drive__download_file_content",
+      "mcp__Google_Drive__get_file_metadata",
+      "mcp__Google_Drive__read_file_content",
+      "mcp__Google_Drive__search_files",
+
+      "mcp__Tavily__tavily_extract",
+      "mcp__Tavily__tavily_search",
+      "mcp__Tavily__tavily_crawl",
+
+      "mcp__Zapier__inspect_zapier_actions",
+      "mcp__Zapier__list_enabled_zapier_actions",
+      "mcp__Zapier__execute_zapier_read_action",
+      "mcp__Zapier__execute_zapier_write_action",
+
+      "Bash(npm install)",
+      "Bash(npm ci)",
+      "Bash(pip install *)",
+      "Bash(node scripts/*)",
+      "Bash(python3 scripts/*)",
+      "Bash(git *)",
+      "Bash(curl -sI *)",
+      "Bash(cp *)",
+      "Bash(mkdir *)",
+      "Bash(ls *)",
+      "Bash(cat *)",
+      "Bash(sed *)",
+      "Bash(date *)"
+    ],
+    "deny": [
+      "Bash(rm -rf *)",
+      "Bash(git push --force *)"
+    ]
+  }
+}

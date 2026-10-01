@@ -1,0 +1,371 @@
+<!--
+  Carat Ukraine — LinkedIn post card template (1080x1080)
+  ===========================================================================
+  Rendered offline via Playwright (file:// URL). No external resources.
+
+  REPLACEABLE TOKENS — the daily automation must replace every occurrence
+  of the following markers with real content before rendering:
+
+    {{CATEGORY}}      Short category label shown in the top pill.
+                       Plain text, UPPERCASE recommended (CSS also
+                       force-uppercases it). e.g. "RETAIL MEDIA"
+
+    {{TITLE_HTML}}     Main headline. May contain inline HTML markup and
+                       MUST contain exactly one
+                       <span class="hl">…</span>
+                       wrapping the single most important phrase/number to
+                       highlight (marker-highlight style). Keep the total
+                       headline to roughly 6-11 words so it fits within
+                       three lines at the fixed card size.
+
+    {{STAT1_VALUE}}    Stat card #1 — big number/value, e.g. "42%"
+    {{STAT1_LABEL}}    Stat card #1 — short caption, e.g. "брендів тестують
+                       retail media"
+    {{STAT2_VALUE}}    Stat card #2 — big number/value
+    {{STAT2_LABEL}}    Stat card #2 — short caption
+    {{STAT3_VALUE}}    Stat card #3 — big number/value
+    {{STAT3_LABEL}}    Stat card #3 — short caption
+
+    {{INSIGHT}}        Plain text (or simple inline HTML) for the insight
+                       callout. Keep to roughly 1-2 sentences so it fits
+                       within two lines.
+
+    {{HASHTAGS_HTML}}  Full inner HTML of the hashtag row — 3 to 5 pills,
+                       each formatted as:
+                       <span class="tag">#ХештегБезПробілів</span>
+                       Supply the complete set of <span> elements (this
+                       token is replaced by the whole markup, not a single
+                       value).
+
+    {{AUTHOR_NAME}}    FIXED RULE: always "Михайло Білик"
+    {{AUTHOR_ROLE}}    FIXED RULE: always "AI & Digital Analytics Director"
+
+  The circular avatar badge text ("MB") is intentionally static in this
+  template — update it manually in markup if the featured author changes.
+
+  See templates/card.sample.html for a fully populated reference render.
+  ===========================================================================
+-->
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>Carat Ukraine — LinkedIn Card</title>
+<style>
+
+  @font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat[wght].ttf') format('truetype-variations');
+    font-weight: 100 900;
+    font-style: normal;
+  }
+
+  :root {
+    --blue: #3067FE;
+    --cyan: #00ADEF;
+    --yellow: #FFF200;
+    --navy: #0A1E3C;
+    --grey-navy: #5B6B85;
+    --light-bg: #F4F7FE;
+    --tag-bg: #E8F0FF;
+    --tag-border: #CFE0FF;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background: #E9EDF5;
+  }
+
+  .card {
+    position: relative;
+    width: 1080px;
+    height: 1080px;
+    overflow: hidden;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    padding: 76px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Decorative background accents — purely visual, sit behind content */
+  .decor {
+    position: absolute;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .decor-ring {
+    width: 720px;
+    height: 720px;
+    top: -260px;
+    right: -260px;
+    border: 2px solid var(--cyan);
+    opacity: 0.08;
+  }
+
+  .content {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+
+  /* 1. Category tag */
+  .tag-category {
+    align-self: flex-start;
+    max-width: 100%;
+    background: var(--blue);
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 2.5px;
+    padding: 11px 26px;
+    border-radius: 999px;
+    line-height: 1.2;
+    overflow-wrap: break-word;
+  }
+
+  /* 2. Headline */
+  .headline {
+    margin: 0;
+    font-weight: 800;
+    font-size: 68px;
+    line-height: 1.12;
+    letter-spacing: -0.5px;
+    color: var(--navy);
+    max-width: 920px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+
+  .headline .hl {
+    background: var(--yellow);
+    color: var(--navy);
+    padding: 2px 12px;
+    border-radius: 8px;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+  }
+
+  /* 3. Stat cards */
+  .stats-row {
+    display: flex;
+    gap: 24px;
+  }
+
+  .stat-card {
+    flex: 1 1 0;
+    min-width: 0;
+    background: var(--light-bg);
+    border-radius: 20px;
+    padding: 28px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .stat-value {
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 1;
+    color: var(--blue);
+    letter-spacing: -0.5px;
+    overflow-wrap: break-word;
+  }
+
+  .stat-label {
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 1.3;
+    color: var(--grey-navy);
+    overflow-wrap: break-word;
+  }
+
+  /* 4. Insight block */
+  .insight {
+    background: var(--light-bg);
+    border-left: 6px solid var(--cyan);
+    border-radius: 0 18px 18px 0;
+    padding: 30px 36px;
+  }
+
+  .insight-label {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 2.5px;
+    color: var(--cyan);
+    margin: 0 0 10px 0;
+  }
+
+  .insight-text {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 1.38;
+    color: var(--navy);
+    margin: 0;
+    overflow-wrap: break-word;
+  }
+
+  /* 5. Hashtags */
+  .hashtags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+
+  .tag {
+    background: var(--tag-bg);
+    border: 2px solid var(--tag-border);
+    color: var(--blue);
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 1.2;
+    padding: 10px 22px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+
+  /* 6. Author row */
+  .author-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .author-left {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    min-width: 0;
+  }
+
+  .author-meta {
+    min-width: 0;
+  }
+
+  .avatar {
+    flex-shrink: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: var(--blue);
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 22px;
+    letter-spacing: 0.5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .author-name {
+    font-weight: 700;
+    font-size: 26px;
+    color: var(--navy);
+    line-height: 1.25;
+    overflow-wrap: break-word;
+  }
+
+  .author-role {
+    font-weight: 500;
+    font-size: 22px;
+    color: var(--grey-navy);
+    line-height: 1.25;
+    overflow-wrap: break-word;
+  }
+
+  .author-right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .wordmark {
+    font-weight: 800;
+    font-size: 27px;
+    color: var(--blue);
+    letter-spacing: 0.2px;
+  }
+
+  .accent-bar {
+    width: 34px;
+    height: 8px;
+    border-radius: 4px;
+    background: var(--yellow);
+  }
+
+</style>
+</head>
+<body>
+
+  <div class="card">
+    <div class="decor decor-ring"></div>
+
+    <div class="content">
+
+      <div class="tag-category">RETAIL MEDIA</div>
+
+      <h1 class="headline">AI у programmatic: ритейл-медіа дають брендам <span class="hl">+35% до ROAS</span></h1>
+
+      <div class="stats-row">
+        <div class="stat-card">
+          <div class="stat-value">42%</div>
+          <div class="stat-label">брендів тестують retail media</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">+35%</div>
+          <div class="stat-label">приріст ROAS у пілотних кампаніях</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">2.3×</div>
+          <div class="stat-label">швидша оптимізація завдяки AI</div>
+        </div>
+      </div>
+
+      <div class="insight">
+        <p class="insight-label">Інсайт</p>
+        <p class="insight-text">Ритейл-медіа більше не експеримент — це вже окрема стаття бюджету, яку варто планувати на 2026 рік уже зараз.</p>
+      </div>
+
+      <div class="hashtags"><span class="tag">#RetailMedia</span>
+        <span class="tag">#Programmatic</span>
+        <span class="tag">#AI</span>
+        <span class="tag">#CaratUkraine</span></div>
+
+      <div class="author-row">
+        <div class="author-left">
+          <div class="avatar">MB</div>
+          <div class="author-meta">
+            <div class="author-name">Михайло Білик</div>
+            <div class="author-role">AI &amp; Digital Analytics Director</div>
+          </div>
+        </div>
+        <div class="author-right">
+          <div class="accent-bar"></div>
+          <div class="wordmark">Carat</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>
