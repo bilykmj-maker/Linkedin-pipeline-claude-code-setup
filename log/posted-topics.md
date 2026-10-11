@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-10-11
+- **Тема:** «As agencies push agentic media future, execs work to ward off client rogue fears» (Digiday, Michael Bürgi / Sam Bradley / Seb Joseph, 08.10.2026, Advertising Week) — Dentsu: агент Carat для планування/закупівлі/оптимізації upfront разом з NBCU, FreeWheel і Newton; Tinuiti — Bliss Point MCP Server; Stagwell — Machine OS; відповідь агенцій на страх клієнтів — human in the loop (шкала нагляду Dentsu, Дейвід Дворін/FreeWheel, пороги погодження та поділ probabilistic vs deterministic у WPP Media, Лорен Ветцель). ПРИМІТКА: Google Drive CSV-фід не завантажився (файл завеликий для конектора, з'єднання обривалось двічі), топ-3 зібрано пошуком Tavily.
+- **Джерело:** https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears
+- **Картка:** cards/2026-10-11.png
+- **Статус:** заплановано в Publer на 2026-10-11 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6acb156a810f4de3b40e51fc, job_id 6acb157416c7f04530ecf944 (status "complete", payload.failures порожній). РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. Дві інші чернетки дня (Digiday — Safari/iOS 27 блокує ad tech, Trusted Server; Digiday — Prime Day і зростання Amazon DSP/CTV) не обрано, не закомічено.
+
 ## 2026-10-01
 - **Тема:** «CTV Ad Consumption Continues to Gain Ground Across Europe» (ExchangeWire PressBox / FreeWheel Video Monetisation Report 1H 2026, 30.09.2026) — CTV = 53% рекламних переглядів преміум-відео в Європі (частка подвоїлась з 2023); загальні ad views +20% р/р, programmatic ad views +44% р/р; live у рекламних переглядах 25% (2H 2025) → 32% (1H 2026); 14 європейських країн (України немає); цитата Еммануеля Жоссерана (Comcast Advertising). ПРИМІТКА: Google Drive CSV-фід недоступний («session expired» на всі спроби), топ-3 зібрано пошуком Tavily.
 - **Джерело:** https://www.exchangewire.com/blog/2026/09/30/ctv-ad-consumption-continues-to-gain-ground-across-europe
