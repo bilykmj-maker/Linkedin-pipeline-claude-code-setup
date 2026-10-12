@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-10-12
+- **Тема:** «OpenAI moves to make ChatGPT ads more measurable — and more visual» (Digiday, Krystal Scanlon, 05.10.2026) — тест image-реклами в США пізніше в жовтні (під час генерації зображень, з маркуванням); розширення вимірювання (веб/апп-результати понад last click, geo-incrementality на ранньому етапі); пілоти brand suitability з DoubleVerify та IAS; обмеження інвентарю за Zeno Group: ~2,5 млрд промптів/день у ChatGPT проти ~15 млрд пошуків у Google, одне рекламне місце проти кількох. За проханням користувача з тексту прибрано два останні абзаци (позиція автора і закриваюче питання). ПРИМІТКА: Google Drive CSV-фід не завантажився (завеликий для конектора, read_file_content повернув лише зразок за травень), топ-3 зібрано пошуком Tavily.
+- **Джерело:** https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual
+- **Картка:** cards/2026-10-12.png
+- **Статус:** заплановано в Publer на 2026-10-12 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6acc5e86e22c90929b107bfa, job_id 6acc5eaa064e533d0c6d5e06 (status "complete", payload.failures порожній). РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. Дві інші чернетки дня (Digiday — Apple Safari blocklist / Trusted Server; Marketing Dive — Revlon × Amazon Interactive Video Ads) не обрано, не закомічено.
+
 ## 2026-10-11
 - **Тема:** «As agencies push agentic media future, execs work to ward off client rogue fears» (Digiday, Michael Bürgi / Sam Bradley / Seb Joseph, 08.10.2026, Advertising Week) — Dentsu: агент Carat для планування/закупівлі/оптимізації upfront разом з NBCU, FreeWheel і Newton; Tinuiti — Bliss Point MCP Server; Stagwell — Machine OS; відповідь агенцій на страх клієнтів — human in the loop (шкала нагляду Dentsu, Дейвід Дворін/FreeWheel, пороги погодження та поділ probabilistic vs deterministic у WPP Media, Лорен Ветцель). ПРИМІТКА: Google Drive CSV-фід не завантажився (файл завеликий для конектора, з'єднання обривалось двічі), топ-3 зібрано пошуком Tavily.
 - **Джерело:** https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears
