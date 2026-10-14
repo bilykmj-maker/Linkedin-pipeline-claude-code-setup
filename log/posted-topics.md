@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-10-14
+- **Тема:** Walmart Connect вперше виводить аудиторії Walmart на живе лінійне ТБ (private marketplace у Walmart DSP з Warner Bros. Discovery; схожа угода зі Spotify; Vizio через Magnite/Yahoo DSP — альфа-тест); Walmart Connect без Vizio +43% р/р у Q2 FY2027; Vizio OS 32 млн активних пристроїв (+20% р/р); CTV-витрати США 2026 — $29,3 млрд (+11%, IAB). ПРИМІТКА: Google Drive CSV-фід не завантажився (завеликий для конектора, read_file_content повернув лише семпл за травень), топ-3 зібрано пошуком Tavily.
+- **Джерело:** https://www.marketingdive.com/news/vizio-ramps-up-creator-led-programming-in-bid-for-ctv-ad-dollars/832640
+- **Картка:** cards/2026-10-14.png
+- **Статус:** заплановано в Publer на 2026-10-14 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6acf1ef7852e0d2da7b54aea, job_id 6acf1f0371233dafef07d03f (status "complete", payload.failures порожній). РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем у LinkedIn одразу після публікації. Дві інші чернетки дня (Digiday — Apple Safari tracking block, eCPM −10,5%; AdExchanger — агентний байїнг у CTV, InterMedia/Vibe/Olyzon) не обрано, не закомічено.
+
 ## 2026-10-12
 - **Тема:** «OpenAI moves to make ChatGPT ads more measurable — and more visual» (Digiday, Krystal Scanlon, 05.10.2026) — тест image-реклами в США пізніше в жовтні (під час генерації зображень, з маркуванням); розширення вимірювання (веб/апп-результати понад last click, geo-incrementality на ранньому етапі); пілоти brand suitability з DoubleVerify та IAS; обмеження інвентарю за Zeno Group: ~2,5 млрд промптів/день у ChatGPT проти ~15 млрд пошуків у Google, одне рекламне місце проти кількох. За проханням користувача з тексту прибрано два останні абзаци (позиція автора і закриваюче питання). ПРИМІТКА: Google Drive CSV-фід не завантажився (завеликий для конектора, read_file_content повернув лише зразок за травень), топ-3 зібрано пошуком Tavily.
 - **Джерело:** https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual
