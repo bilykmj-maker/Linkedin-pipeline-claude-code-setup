@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-10-15
+- **Тема:** «LG And Magnite Launch Agentic Home Screen Ads With A Winning NFL Quarterback» (AdExchanger, Alyssa Boyle, 14.10.2026) — інвентар домашнього екрана LG доступний через agentic-закупівлю; перша кампанія Northern California Toyota Dealers Association з агентством H/L; buyer agent H/L + seller agent Magnite у ClearLine через MCP; план схвалили люди з LG та H/L; метрика — cost per reach. ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий для конектора), теми зібрано пошуком Tavily. Не обрані чернетки: Apple iOS 27 WebKit блок-лист (AdExchanger), performance CTV: піксель 109 vs CRM 1 250 (AdExchanger, InterMedia).
+- **Джерело:** https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback
+- **Картка:** cards/2026-10-15.png
+- **Статус:** заплановано в Publer на 2026-10-15 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6ad0566f16eb60fb395cc8dc, job_id 6ad05684bc7339a3dec8eb82 (status "complete", failures порожній). РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем одразу після публікації.
+
 ## 2026-10-14
 - **Тема:** Walmart Connect вперше виводить аудиторії Walmart на живе лінійне ТБ (private marketplace у Walmart DSP з Warner Bros. Discovery; схожа угода зі Spotify; Vizio через Magnite/Yahoo DSP — альфа-тест); Walmart Connect без Vizio +43% р/р у Q2 FY2027; Vizio OS 32 млн активних пристроїв (+20% р/р); CTV-витрати США 2026 — $29,3 млрд (+11%, IAB). ПРИМІТКА: Google Drive CSV-фід не завантажився (завеликий для конектора, read_file_content повернув лише семпл за травень), топ-3 зібрано пошуком Tavily.
 - **Джерело:** https://www.marketingdive.com/news/vizio-ramps-up-creator-led-programming-in-bid-for-ctv-ad-dollars/832640
