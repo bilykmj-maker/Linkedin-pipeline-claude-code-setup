@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-10-20
+- **Тема:** «Meta Is Selling Ad Slots, TV-Style» (AdExchanger, Allison Schiff, ~15–19.10.2026) — Meta Ads Super Burst: вікно 3–24 год одного дня на Facebook/Instagram, ціна й охоплення (±5% від прогнозу) погоджуються наперед, категорійна ексклюзивність на тентпольні дати в США, CPM залежить від дати, first come first served; First Impression Ads (альфа); Aggregated View Time — 5 с уваги за тиждень дають +32% офлайн-продажів (внутрішні дані Meta); WPP Media: 84% покупок роблять ті, хто вже мав бренд на думці. За проханням користувача прибрано абзац «Моя позиція» і закриваюче питання. ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий для конектора), теми зібрано пошуком Tavily.
+- **Джерело:** https://www.adexchanger.com/platforms/meta-is-selling-ad-slots-tv-style
+- **Картка:** cards/2026-10-20.png
+- **Статус:** заплановано в Publer на 2026-10-20 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6ad6e56ea391f1fc18f18c19, job_id 6ad6e576edbea5c3c7344c8d (status "complete", failures порожній). РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем одразу після публікації. Дві інші чернетки дня (AdExchanger — Prebid: ad server ставить ставки в Prebid, відокремлюючи AdX від GAM; Digiday — Amazon TNF як шлюз до DSP, Colgate/Tinuiti) не обрано, не закомічено.
+
 ## 2026-10-15
 - **Тема:** «LG And Magnite Launch Agentic Home Screen Ads With A Winning NFL Quarterback» (AdExchanger, Alyssa Boyle, 14.10.2026) — інвентар домашнього екрана LG доступний через agentic-закупівлю; перша кампанія Northern California Toyota Dealers Association з агентством H/L; buyer agent H/L + seller agent Magnite у ClearLine через MCP; план схвалили люди з LG та H/L; метрика — cost per reach. ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий для конектора), теми зібрано пошуком Tavily. Не обрані чернетки: Apple iOS 27 WebKit блок-лист (AdExchanger), performance CTV: піксель 109 vs CRM 1 250 (AdExchanger, InterMedia).
 - **Джерело:** https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback
