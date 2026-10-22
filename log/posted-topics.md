@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-10-22
+- **Тема:** «Netflix Touts New Measurement Capabilities As It Struggles With "Modest" Engagement Growth» (AdExchanger, Alyssa Boyle, 21.10.2026, Q3-звіт Netflix від 20.10) — рекламна виручка +80%+ за рік, але нижче цілі подвоїти; виручка Q3 $12,9 млрд (+12%); Netflix Pixel (доповнення до CAPI: конверсії, brand lift, таргетинг); The Trade Desk підключається до Netflix з наступного місяця (поряд з Amazon DSP і Yahoo DSP); перегляди +2% за H1; акції −~6% в after-hours. За проханням користувача прибрано абзац «Моя позиція» (закриваюче питання залишено). ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий для конектора), теми зібрано пошуком Tavily.
+- **Джерело:** https://www.adexchanger.com/tv/netflix-touts-new-measurement-capabilities-as-it-struggles-with-modest-engagement-growth
+- **Картка:** cards/2026-10-22.png
+- **Статус:** заплановано в Publer на 2026-10-22 10:00 Київ (07:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6ad97876c5b1163c9d0e083d, job_id 6ad97881f5d3904a36f3f18d (status "complete", failures порожній). РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем одразу після публікації. Дві інші чернетки дня (AdExchanger — Apple «Blocking Identity Resolution Infrastructure», iOS 27; AdExchanger — DecryptAds: 2 116 AI-сайтів із рецептами в програматику) не обрано, не закомічено.
+
 ## 2026-10-20
 - **Тема:** «Meta Is Selling Ad Slots, TV-Style» (AdExchanger, Allison Schiff, ~15–19.10.2026) — Meta Ads Super Burst: вікно 3–24 год одного дня на Facebook/Instagram, ціна й охоплення (±5% від прогнозу) погоджуються наперед, категорійна ексклюзивність на тентпольні дати в США, CPM залежить від дати, first come first served; First Impression Ads (альфа); Aggregated View Time — 5 с уваги за тиждень дають +32% офлайн-продажів (внутрішні дані Meta); WPP Media: 84% покупок роблять ті, хто вже мав бренд на думці. За проханням користувача прибрано абзац «Моя позиція» і закриваюче питання. ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий для конектора), теми зібрано пошуком Tavily.
 - **Джерело:** https://www.adexchanger.com/platforms/meta-is-selling-ad-slots-tv-style
