@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-11-04
+- **Тема:** «IAB Europe Reveals Growing Retail Media Measurement Gap» (ExchangeWire PressBox, 03.11.2026) — Attitudes to Retail Media Report (3-тє видання, 150 респондентів): ROAS як бажана метрика 89% (2025) → 49%; 71% байєрів співпрацюють з ритейлерами понад рік (51% у 2024); лише 12% вважають стратегії повністю зрілими; 61% — брак вимірювання як бар'єр; занепокоєння доступністю даних 31% → 58%; бажані метрики: єдина звітність online+offline 66%, new-to-brand 63%, incrementality 57%; мультитач-атрибуція: 58% байєрів хочуть vs 31% продавців пропонують. ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий для конектора), теми зібрано пошуком Tavily.
+- **Джерело:** https://www.exchangewire.com/blog/2026/11/03/iab-europe-reveals-growing-retail-media-measurement-gap
+- **Картка:** cards/2026-11-04.png
+- **Статус:** заплановано в Publer на 2026-11-04 10:00 Київ (08:00 UTC), акаунт LinkedIn Mykhailo Bilyk, media_id 6aeaceed30d26d706b226c02, job_id 6aeacf0050d2f40da9888455 (status "complete", failures порожній). РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем одразу після публікації. Дві інші чернетки дня (AdExchanger — DoorDash × Instacart, mobility media; ExchangeWire — Amazon Ads ~$19,6 млрд у Q3 і Amazon Ads Agent) не обрано, не закомічено.
+
 ## 2026-10-22
 - **Тема:** «Netflix Touts New Measurement Capabilities As It Struggles With "Modest" Engagement Growth» (AdExchanger, Alyssa Boyle, 21.10.2026, Q3-звіт Netflix від 20.10) — рекламна виручка +80%+ за рік, але нижче цілі подвоїти; виручка Q3 $12,9 млрд (+12%); Netflix Pixel (доповнення до CAPI: конверсії, brand lift, таргетинг); The Trade Desk підключається до Netflix з наступного місяця (поряд з Amazon DSP і Yahoo DSP); перегляди +2% за H1; акції −~6% в after-hours. За проханням користувача прибрано абзац «Моя позиція» (закриваюче питання залишено). ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий для конектора), теми зібрано пошуком Tavily.
 - **Джерело:** https://www.adexchanger.com/tv/netflix-touts-new-measurement-capabilities-as-it-struggles-with-modest-engagement-growth
