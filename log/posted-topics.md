@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-11-05
+- **Тема:** «Agency execs call for retail media to be holistically considered beyond the lower funnel» (Digiday, 03.11.2026) — Aisha Khan (Dentsu): 80%+ продажів в офлайні, <5% бюджетів retail media на in-store; AI-MMM/incrementality тиснуть на data CPM closed-loop. ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий), теми зібрано Tavily. Користувач обрав варіант 2 і попросив прибрати блоки «Моя позиція» та закрите питання.
+- **Джерело:** https://digiday.com/media-buying/agency-execs-call-for-retail-media-to-be-holistically-considered-beyond-lower-funnel
+- **Картка:** cards/2026-11-05.png
+- **Статус:** заплановано в Publer на 2026-11-05 10:00 Київ (08:00 UTC), media_id 6aec083a32b2b3bc4e4675c4, job_id 6aec084e0adccc3c80ded62b (status "complete", failures порожній). РЕКОМЕНДОВАНА ручна перевірка в Publer UI. Auto-comment недоступний на тарифі — джерело додати вручну першим коментарем. Невибрані чернетки (Criteo Q3; Affle–Perion $420 млн) не закомічено.
+
 ## 2026-11-04
 - **Тема:** «IAB Europe Reveals Growing Retail Media Measurement Gap» (ExchangeWire PressBox, 03.11.2026) — Attitudes to Retail Media Report (3-тє видання, 150 респондентів): ROAS як бажана метрика 89% (2025) → 49%; 71% байєрів співпрацюють з ритейлерами понад рік (51% у 2024); лише 12% вважають стратегії повністю зрілими; 61% — брак вимірювання як бар'єр; занепокоєння доступністю даних 31% → 58%; бажані метрики: єдина звітність online+offline 66%, new-to-brand 63%, incrementality 57%; мультитач-атрибуція: 58% байєрів хочуть vs 31% продавців пропонують. ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий для конектора), теми зібрано пошуком Tavily.
 - **Джерело:** https://www.exchangewire.com/blog/2026/11/03/iab-europe-reveals-growing-retail-media-measurement-gap
