@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-11-23
+- **Тема:** «Anthropic says no to ads but Wall Street may have other ideas» (Digiday, 20.11.2026) — ChatGPT ads $1 млрд run rate <200 днів; Anthropic: $895 млрд зобов'язань, Q3 виручка $17 млрд, 80% — consumption-based; Netflix як прецедент. Користувач обрав варіант 1.
+- **Джерело:** https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/
+- **Картка:** cards/2026-11-23.png
+- **Статус:** запланувати в Publer на 2026-11-23 10:00 Київ (08:00 UTC). Невибрані чернетки (Digiday — креатори виробляють рекламу, Madison & Wall; AdExchanger — Q3 In Review ТБ/стримінг) не закомічено.
+
 ## 2026-11-05
 - **Тема:** «Agency execs call for retail media to be holistically considered beyond the lower funnel» (Digiday, 03.11.2026) — Aisha Khan (Dentsu): 80%+ продажів в офлайні, <5% бюджетів retail media на in-store; AI-MMM/incrementality тиснуть на data CPM closed-loop. ПРИМІТКА: Google Drive CSV знову не завантажився (завеликий), теми зібрано Tavily. Користувач обрав варіант 2 і попросив прибрати блоки «Моя позиція» та закрите питання.
 - **Джерело:** https://digiday.com/media-buying/agency-execs-call-for-retail-media-to-be-holistically-considered-beyond-lower-funnel
