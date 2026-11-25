@@ -12,6 +12,12 @@
 
 ---
 
+## 2026-11-25
+- **Тема:** «Walmart is letting Meta's Muse shop its shelves — but on its own terms» (Digiday, 24.11.2026) — конектор Walmart для Meta Muse на MCP (запуск 24.11), Agent Profiles, ліміти автономних покупок $50/$100/$200; Amazon заблокував Muse у вересні; «sponsored consideration»
+- **Джерело:** https://digiday.com/marketing/walmart-is-letting-metas-muse-shop-its-shelves-but-on-its-own-terms/
+- **Картка:** cards/2026-11-25.png
+- **Статус:** ПЛАНУЄТЬСЯ в Publer на 2026-11-25 10:00 Київ (08:00 UTC), акаунт LinkedIn Mykhailo Bilyk. Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем.
+
 ## 2026-11-23
 - **Тема:** «Anthropic says no to ads but Wall Street may have other ideas» (Digiday, 20.11.2026) — ChatGPT ads $1 млрд run rate <200 днів; Anthropic: $895 млрд зобов'язань, Q3 виручка $17 млрд, 80% — consumption-based; Netflix як прецедент. Користувач обрав варіант 1.
 - **Джерело:** https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/
