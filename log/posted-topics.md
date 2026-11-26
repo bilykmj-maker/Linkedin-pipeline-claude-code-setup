@@ -16,7 +16,7 @@
 - **Тема:** Amazon купує рекламу в ChatGPT, але блокує його краулери
 - **Джерело:** https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/
 - **Картка:** cards/2026-11-26.png
-- **Статус:** ЧЕРНЕТКА — публікацію в Publer ще не виконано (запис оновити після планування). Цільовий час: 2026-11-26 10:20 Київ (08:20 UTC).
+- **Статус:** заплановано в Publer на 2026-11-26 10:25 Київ (08:25 UTC), акаунт LinkedIn Mykhailo Bilyk (media_id 6b07e7ffe01471e653765f20, job_id 6b07e816e78e971bd0a410f3, failures: {}). Auto-comment вимкнено (план Publer не підтримує) — джерело додати вручну першим коментарем після публікації.
 
 ## 2026-11-25
 - **Тема:** «Walmart is letting Meta's Muse shop its shelves — but on its own terms» (Digiday, 24.11.2026) — конектор Walmart для Meta Muse на MCP (запуск 24.11), Agent Profiles, ліміти автономних покупок $50/$100/$200; Amazon заблокував Muse у вересні; «sponsored consideration»
